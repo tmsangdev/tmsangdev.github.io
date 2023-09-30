@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, world!
+date: 2023-09-29 23:00:00 +0700
 ---
 
 Xin chào thế giới!

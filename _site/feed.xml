@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-30T00:11:34+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tờ Mờ Sáng học Lập trình</title><entry><title type="html">Ý nghĩa của cái tên “Tờ Mờ Sáng học Lập trình”</title><link href="http://localhost:4000/y-nghia-cua-cai-ten-To-Mo-Sang-hoc-Lap-trinh/" rel="alternate" type="text/html" title="Ý nghĩa của cái tên “Tờ Mờ Sáng học Lập trình”" /><published>2023-09-30T00:00:00+07:00</published><updated>2023-09-30T00:00:00+07:00</updated><id>http://localhost:4000/y-nghia-cua-cai-ten-To-Mo-Sang-hoc-Lap-trinh</id><content type="html" xml:base="http://localhost:4000/y-nghia-cua-cai-ten-To-Mo-Sang-hoc-Lap-trinh/">&lt;p&gt;Thực ra nguồn gốc cái tên cũng khá đơn giản.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-30T23:00:29+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tờ Mờ Sáng học Lập trình</title><entry><title type="html">Lộ trình trở thành Fresher Web Fullstack</title><link href="http://localhost:4000/lo-trinh-tro-thanh-fresher-web-fullstack/" rel="alternate" type="text/html" title="Lộ trình trở thành Fresher Web Fullstack" /><published>2023-09-30T22:55:00+07:00</published><updated>2023-09-30T22:55:00+07:00</updated><id>http://localhost:4000/lo-trinh-tro-thanh-fresher-web-fullstack</id><content type="html" xml:base="http://localhost:4000/lo-trinh-tro-thanh-fresher-web-fullstack/">&lt;p&gt;Hi vọng bài viết này sẽ đến tay những bạn mất phương hướng và đang cần đến nó&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;LƯU Ý:&lt;/p&gt;
+
+  &lt;p&gt;Những kiến thức mình liệt kê dưới đây mới là ở mức cơ bản, học xong những kiến thức này, các bạn có thể có cơ hội tìm được công việc lập trình Web Fullstack đầu tiên.&lt;/p&gt;
+
+  &lt;p&gt;Sau khi vào dự án rồi thì sẽ còn rất nhiều kiến thức nâng cao mình cần bồi dưỡng theo thời gian.&lt;/p&gt;
+
+  &lt;p&gt;Hi vọng các bạn sẽ luôn giữ trong mình khát khao tìm tòi và học hỏi để mở rộng hơn kiến thức và kỹ năng của mình nhé 📚️&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bạn có thể lựa chọn 1 trong 2 lộ trình này:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Frontend -&amp;gt; Database -&amp;gt; Backend&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Database -&amp;gt; Backend -&amp;gt; Frontend&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lý do mình khuyên nên học DB trước BE để khi code BE bạn có thể gọi hàm lấy dữ liệu từ DB ra luôn. Đỡ phải fake dữ liệu ở BE.
+Về từng phần học thì bạn có thể học như sau:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-frontend&quot;&gt;1. FRONTEND:&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fresher-frontend.png&quot; alt=&quot;Các kiến thức Frontend cơ bản Fresher Web Fullstack cần nắm được&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;JS&lt;/li&gt;
+  &lt;li&gt;Debug code JS sử dụng Chrome Devtools&lt;/li&gt;
+  &lt;li&gt;Học 1 framework/library nào đó như ReactJS, Angular, VueJS, … để làm quen với cách phân chia component và Single Page App (SPA). Bây giờ đa phần web app đều code theo SPA.&lt;/li&gt;
+  &lt;li&gt;Debug code (sử dụng Chrome Devtools hoặc Visual Studio Code) ⭐️&lt;/li&gt;
+  &lt;li&gt;Học sử dụng Git để quản lý mã nguồn
+Tổng quan về FE, ngoài nhưng kiến thức code cơ bản thì &lt;strong&gt;QUAN TRỌNG NHẤT&lt;/strong&gt; là &lt;strong&gt;KỸ NĂNG DEBUG&lt;/strong&gt; ⭐️, vì khi đi làm phải debug, fix bug rất nhiều.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-database&quot;&gt;2. DATABASE:&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fresher-database.png&quot; alt=&quot;Các kiến thức Database cơ bản Fresher Web Fullstack cần nắm được&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mới bắt đầu thì có thể chọn học relational database (cơ sở dữ liệu quan hệ) như MySQL hoặc SqlServer&lt;/li&gt;
+  &lt;li&gt;Các cú pháp cơ bản như kiểu dữ liệu, các câu lệnh, constraint&lt;/li&gt;
+  &lt;li&gt;Học cách đánh index&lt;/li&gt;
+  &lt;li&gt;Transaction&lt;/li&gt;
+  &lt;li&gt;Sinh dữ liệu fake&lt;/li&gt;
+  &lt;li&gt;Backup/Restore database phòng ngừa rủi ro&lt;/li&gt;
+  &lt;li&gt;Phân tích bài toán để cấu trúc các bảng, mối quan hệ giữa các bảng cho phù hợp&lt;/li&gt;
+  &lt;li&gt;Xa xôi nữa có thể học NoSQL, nhưng nếu bạn bắt đầu học từ đầu thì ko nên ôm đồm học nhồi nhét quá. Vững chắc từ cơ bản trước&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-backend&quot;&gt;3. BACKEND:&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/fresher-backend.png&quot; alt=&quot;Các kiến thức Backend cơ bản Fresher Web Fullstack cần nắm được&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Có thể chọn học lập trình hướng đối tượng, vì các công ty ở Việt Nam vẫn ưa chuộng loại này&lt;/li&gt;
+  &lt;li&gt;Lựa chọn 1 ngôn ngữ để học: Java, C#, NodeJS, … Như mình là mình theo C#. Cứ thấy cái tên nào hợp phong thuỷ thì bạn học cũng được. Sau này việc chuyển qua ngôn ngữ khác không khó, tư tưởng cơ bản giống nhau. Chỉ khác cú pháp&lt;/li&gt;
+  &lt;li&gt;Học các cú pháp cơ bản về biến, if else, for while, function, class, object, …&lt;/li&gt;
+  &lt;li&gt;Học thiết kế API chuẩn RESTful. Sau này làm việc với các lập trình viên khác cho dễ&lt;/li&gt;
+  &lt;li&gt;Học cách sử dụng thư viện, cách gọi vào DB để lấy dữ liệu&lt;/li&gt;
+  &lt;li&gt;Học cách phân chia cách layer code rõ ràng, mỗi layer làm 1 nhiệm vụ riêng biệt như mô hình 3 layer: API Controller + Business Logic + Data Access.&lt;/li&gt;
+  &lt;li&gt;Học cách debug code BE ⭐️&lt;/li&gt;
+  &lt;li&gt;Học viết Unit test để tự tin nói code mình đúng logic, đã test tủng cẩn thận&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kết-bài&quot;&gt;KẾT BÀI:&lt;/h2&gt;
+
+&lt;p&gt;Trên đây là lộ trình của 1 fullstack dev cơ bản. Sau đó, sẽ trau dồi thêm các kiến thức nâng cao về Job/Worker, lập trình bất đồng bộ, microservice, authentication/authorization, …&lt;/p&gt;
+
+&lt;p&gt;Cảm thấy sự thú vị thì sẽ muốn Học, Học nữa, Học mãi. Chúc bạn thành công 🤜🤛&lt;/p&gt;
+
+&lt;p&gt;Ở các bài viết tiếp theo, mình sẽ bắt đầu chia sẻ kiến thức về Database. Mời các bạn cùng đón xem!&lt;/p&gt;</content><author><name></name></author><category term="fresher web fullstack" /><summary type="html">Hi vọng bài viết này sẽ đến tay những bạn mất phương hướng và đang cần đến nó LƯU Ý: Những kiến thức mình liệt kê dưới đây mới là ở mức cơ bản, học xong những kiến thức này, các bạn có thể có cơ hội tìm được công việc lập trình Web Fullstack đầu tiên. Sau khi vào dự án rồi thì sẽ còn rất nhiều kiến thức nâng cao mình cần bồi dưỡng theo thời gian. Hi vọng các bạn sẽ luôn giữ trong mình khát khao tìm tòi và học hỏi để mở rộng hơn kiến thức và kỹ năng của mình nhé 📚️</summary></entry><entry><title type="html">Ý nghĩa của cái tên “Tờ Mờ Sáng học Lập trình”</title><link href="http://localhost:4000/y-nghia-cua-cai-ten-To-Mo-Sang-hoc-Lap-trinh/" rel="alternate" type="text/html" title="Ý nghĩa của cái tên “Tờ Mờ Sáng học Lập trình”" /><published>2023-09-30T01:00:00+07:00</published><updated>2023-09-30T01:00:00+07:00</updated><id>http://localhost:4000/y-nghia-cua-cai-ten-To-Mo-Sang-hoc-Lap-trinh</id><content type="html" xml:base="http://localhost:4000/y-nghia-cua-cai-ten-To-Mo-Sang-hoc-Lap-trinh/">&lt;p&gt;Thực ra nguồn gốc cái tên cũng khá đơn giản.&lt;/p&gt;
 
 &lt;p&gt;Hồi còn làm ở công ty MISA, tên đăng nhập của mình trong mạng nội bộ công ty là &lt;strong&gt;“tmsang”&lt;/strong&gt;, viết tắt của Trần Minh Sáng.&lt;/p&gt;
 
@@ -6,11 +77,13 @@
 
 &lt;p&gt;Còn hiện tại mình đã nghỉ việc ở công ty, trở về nhà vừa học thêm những kiến thức Lập trình mà mình muốn, vừa chia sẻ những kiến thức mà mình đã biết tới mọi người, và cũng vừa thực hiện những dự án mà mình cảm thấy thích thú. Nên mình cảm thấy &lt;strong&gt;“học Lập trình”&lt;/strong&gt; là một từ phù hợp để mô tả về bản thân.&lt;/p&gt;
 
-&lt;p&gt;Vậy thôi. Học, học nữa, học mãi. Let’s go!&lt;/p&gt;</content><author><name></name></author><summary type="html">Thực ra nguồn gốc cái tên cũng khá đơn giản.</summary></entry><entry><title type="html">Hello, world!</title><link href="http://localhost:4000/hello-world/" rel="alternate" type="text/html" title="Hello, world!" /><published>2023-09-29T00:00:00+07:00</published><updated>2023-09-29T00:00:00+07:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world/">&lt;p&gt;Xin chào thế giới!&lt;/p&gt;
+&lt;p&gt;À còn nữa, tại sao không giữ tên viết tắt là “tmsang” mà lại chuyển thành &lt;strong&gt;“tmsangdev”&lt;/strong&gt;?&lt;/p&gt;
 
-&lt;p&gt;Giao diện mặc định hơi xấu chút. Nhưng thôi cải thiện dần dần vậy.&lt;/p&gt;
+&lt;p&gt;Nguyên nhân là vì lúc mình định đặt username trên Github là “tmsang” thì thấy có người khác sử dụng mất rồi. Mình cũng thử liên hệ với họ để xin phép được nhường lại username, nhưng chắc họ ít dùng Github, nên mình cũng không nhận được phản hồi.&lt;/p&gt;
 
-&lt;p&gt;Và đây là bài viết đầu tiên trên trang. Yayyyy :)&lt;/p&gt;</content><author><name></name></author><summary type="html">Xin chào thế giới!</summary></entry><entry><title type="html">Who am I?</title><link href="http://localhost:4000/who-am-i/" rel="alternate" type="text/html" title="Who am I?" /><published>2023-09-29T00:00:00+07:00</published><updated>2023-09-29T00:00:00+07:00</updated><id>http://localhost:4000/who-am-i</id><content type="html" xml:base="http://localhost:4000/who-am-i/">&lt;p&gt;Xin chào các bạn,&lt;/p&gt;
+&lt;p&gt;Vậy là đành thêm suffix “dev” đằng sau :/&lt;/p&gt;
+
+&lt;p&gt;Hết!&lt;/p&gt;</content><author><name></name></author><summary type="html">Thực ra nguồn gốc cái tên cũng khá đơn giản.</summary></entry><entry><title type="html">Who am I?</title><link href="http://localhost:4000/who-am-i/" rel="alternate" type="text/html" title="Who am I?" /><published>2023-09-29T23:30:00+07:00</published><updated>2023-09-29T23:30:00+07:00</updated><id>http://localhost:4000/who-am-i</id><content type="html" xml:base="http://localhost:4000/who-am-i/">&lt;p&gt;Xin chào các bạn,&lt;/p&gt;
 
 &lt;p&gt;Mình là Trần Minh Sáng. Mình sinh năm 1996.&lt;/p&gt;
 
@@ -38,4 +111,8 @@
 
 &lt;p&gt;Tương lai còn dài, không biết sẽ có những thử thách hay quyết định gì khác sẽ xảy ra, nên mình lựa chọn sống trọn vẹn với những điều mình suy nghĩ và mong muốn của hiện tại.&lt;/p&gt;
 
-&lt;p&gt;Dám chơi, dám chịu. Mong rằng bản thân sẽ mãi giữ vững sự kiên cường này, cùng với tổ ấm gia đình, mình sẽ thực hiện được những điều mà bản thân hàng ngày cố gắng.&lt;/p&gt;</content><author><name></name></author><summary type="html">Xin chào các bạn,</summary></entry></feed>
+&lt;p&gt;Dám chơi, dám chịu. Mong rằng bản thân sẽ mãi giữ vững sự kiên cường này, cùng với tổ ấm gia đình, mình sẽ thực hiện được những điều mà bản thân hàng ngày cố gắng.&lt;/p&gt;</content><author><name></name></author><summary type="html">Xin chào các bạn,</summary></entry><entry><title type="html">Hello, world!</title><link href="http://localhost:4000/hello-world/" rel="alternate" type="text/html" title="Hello, world!" /><published>2023-09-29T23:00:00+07:00</published><updated>2023-09-29T23:00:00+07:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world/">&lt;p&gt;Xin chào thế giới!&lt;/p&gt;
+
+&lt;p&gt;Giao diện mặc định hơi xấu chút. Nhưng thôi cải thiện dần dần vậy.&lt;/p&gt;
+
+&lt;p&gt;Và đây là bài viết đầu tiên trên trang. Yayyyy :)&lt;/p&gt;</content><author><name></name></author><summary type="html">Xin chào thế giới!</summary></entry></feed>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Đôi nét về bản thân
-permalink: /about/
+permalink: /about-me/
 ---
 
 Xin chào các bạn,

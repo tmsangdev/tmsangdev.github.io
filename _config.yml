@@ -18,7 +18,6 @@ name: Tờ Mờ Sáng học Lập trình
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sangtran.d14ptit@gmail.com
   facebook: tmsangdev
   flickr:
   github: tmsangdev
@@ -29,6 +28,7 @@ footer-links:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UC0xBYqWa3wZ6yL_Ky9jBGmA # channel/<your_long_string> or user/<user-name>
+  email: sangtran.d14ptit@gmail.com
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
