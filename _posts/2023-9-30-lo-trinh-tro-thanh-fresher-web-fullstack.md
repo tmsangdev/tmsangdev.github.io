@@ -5,7 +5,8 @@ tag: fresher web fullstack
 date: 2023-09-30 22:55:00 +0700
 ---
 
-Hi vọng bài viết này sẽ đến tay những bạn mất phương hướng và đang cần đến nó
+Hi vọng bài viết này sẽ đến tay những bạn mất phương hướng và đang cần đến nó.
+
 > LƯU Ý: 
 > 
 > Những kiến thức mình liệt kê dưới đây mới là ở mức cơ bản, học xong những kiến thức này, các bạn có thể có cơ hội tìm được công việc lập trình Web Fullstack đầu tiên.
